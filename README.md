@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 - 💀 Nothing in general...I'm a potato. 🥔
 
 ### Links
-🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/nkxye)
-🔗 Visit my crappy [GitHub Page](https://nkxye.github.io)
+- 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/nkxye)
+- 🔗 Visit my crappy [GitHub Page](https://nkxye.github.io)
