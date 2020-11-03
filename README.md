@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🔭 Currently working on an automated vertical NFT system for urban farming
 - 💼 Working as an intern focusing on ServiceNow mobile app configurations
 - 💯 Mainly enjoys data analytics, technical writing, UX design, and web development
-- ⚡️ Aiming to learn more about Service Design, UX Research, and SAS® Data Curation and Management
+- ⚡️ Aiming to learn more about cloud computing, service design, UX research, and SAS® Data Curation and Management
 - 💀 Not that much in general...I'm a potato. 🥔
 
 ### Care to stalk me more? (Kidding, let's be friends.)
