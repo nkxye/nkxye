@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 💼 Working as an intern focusing on ServiceNow mobile app configurations
 - 💯 Mainly enjoys data analytics, technical writing, UX design, and web development
 - ⚡️ Aiming to learn more about Service Design, UX Research, and SAS® Data Curation and Management
-- 💀 Nothing in general...I'm a potato. 🥔
+- 💀 Not that much in general...I'm a potato. 🥔
 
 ### Care to stalk me more? (Kidding, let's be friends.)
 - 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/nkxye)
