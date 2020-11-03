@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 - ⚡️ Aiming to learn more about Service Design, UX Research, and SAS® Data Curation and Management
 - 💀 Nothing in general...I'm a potato. 🥔
 
-### Links
+### Care to stalk me more? (Kidding, let's be friends.)
 - 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/nkxye)
 - 🔗 Visit my crappy [GitHub Page](https://nkxye.github.io)
