@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Oh? You're approaching me?
 
-![But it was I, Dio](https://i.kym-cdn.com/photos/images/newsfeed/001/488/696/0e7.jpg)
+![But it was I, Dio](https://github.com/nkxye/nkxye/blob/main/9cf.png)
 
 ### What am I up to?
 - 🔭 Currently working on an automated vertical NFT system for urban farming
