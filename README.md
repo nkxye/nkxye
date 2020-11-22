@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 ### Care to stalk me more? (Kidding, let's be friends.)
 - 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/nkxye)
 - 🔗 Visit my crappy [GitHub Page](https://nkxye.github.io)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nkxye&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
