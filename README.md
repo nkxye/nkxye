@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 - 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/nkxye)
 - 🔗 Visit my crappy [GitHub Page](https://nkxye.github.io)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nkxye&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nkxye&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkxye)](https://github.com/anuraghazra/github-readme-stats)
