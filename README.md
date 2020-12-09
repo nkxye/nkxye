@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### What am I up to?
 - 🔭 Currently working on an automated vertical NFT system for urban farming
-- 💼 Working as an intern for ServiceNow mobile app configurations
+- 💼 Working as an intern, dealing with PaaS performance analytics and mobile app configurations
 - 💯 Mainly enjoys data analytics, technical writing, UX design, and web development
 - ⚡️ Aiming to learn more about cloud computing, service design, UX research, and data curation
 - 💀 Not that much in general...I'm a potato. 🥔
