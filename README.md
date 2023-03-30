@@ -21,15 +21,14 @@ Here are some ideas to get you started:
 ![But it was I, Dio](https://github.com/nkxye/nkxye/blob/main/9cf.png)
 
 ### What am I up to?
-- 🔭 Currently working on an automated vertical NFT system for urban farming
 - 💼 Working as a ServiceNow Developer
 - 💯 Mainly enjoys UX design and web development
-- ⚡️ Aiming to learn more about cloud computing, service design, UX research, and data curation
+- ⚡️ Aiming to learn more about cloud computing and service design
 - 💀 Not that much in general...I'm a potato. 🥔
 
 ### Care to stalk me more? (Kidding, let's be friends.)
 - 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/nkxye)
-- 🔗 Visit my crappy [GitHub Page](https://nkxye.github.io)
+- 🔗 Visit my crappy [GitHub Page](https://nkxye.github.io) - this might be down at the moment, I'm trying to redesign this lol
 
 ### Useless Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=nkxye&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
