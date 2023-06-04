@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![me](https://github.com/nkxye/nkxye/blob/main/banner.png)
-
-### Oh? You're approaching me?
+# Oh? You're approaching me?
 
 ![But it was I, Dio](https://github.com/nkxye/nkxye/blob/main/9cf.png)
 
